@@ -3,7 +3,7 @@
 This is an end-to-end data engineering project that collects, stores, and visualizes EuroLeague basketball data. The project features player and team performance KPIs, attendance analysis, and standings — powered by a full data pipeline using Python, PostgreSQL, Docker, Airflow, and Metabase.
 
 ## 📡 Euroleague API Dependency  
-This project makes extensive use of the excellent open-source library **Euroleague API** developed by **Giannis Asemidis (giasemidis)**.
+This project makes extensive use of the excellent open-source library **Euroleague API** developed by **George Giasemidis (giasemidis)**.
 
 ### 🔗 Repository  
 **Euroleague API – giasemidis/euroleague_api**  
@@ -63,4 +63,5 @@ Please open an issue first to discuss what you’d like to add.
 - **Dimitris Papastavridis**
 GitHub: https://github.com/dimitrispapastavridis
 - **Dimitris Kotsiras**
+
 
